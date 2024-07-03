@@ -15,7 +15,8 @@
     "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2",
-    "path": "^0.12.7"
-  },
-  "devDependencies": {}
+    "notion2md-node": "file:../notion2md-node",
+    "path": "^0.12.7",
+    "puppeteer": "^22.12.1"
+  }
 }
